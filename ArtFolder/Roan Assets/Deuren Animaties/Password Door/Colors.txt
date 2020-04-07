@@ -1,0 +1,7 @@
+Color : FF0DA3
+
+adjust color setting:
+Brightness -100
+Contrast -12
+Saturation 100
+hue -137
